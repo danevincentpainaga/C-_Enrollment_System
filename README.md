@@ -1,4 +1,4 @@
-# C-_Enrollment_System
+# CSharp_Enrollment_System
 
 A sample thesis project using c# winform and mysql.
 
